@@ -495,7 +495,7 @@ button {
   border-radius: 25px;
 }
 .calc-wrapper {
-  background-color: white;
+  background-color: rgb(181, 191, 197);
   width: 100%;
   border-radius: 16px;
   /* margin-top: -5%; */
